@@ -11,19 +11,18 @@ must be gained through effective data analysis and modeling. Through the use of 
   <li>Repayment: Credit card Payment done by customer</li>
 
 <h2>Question to be answer</h2>
-Based on the business statement, here is a list of questions that helped us to tackle those areas that we needed to look in.
+Based on the business statement, here is a list of questions that helped us to tackle those areas.
 
 <ol>
 <li> Who are our clients? </li>
 <li> What is their spending habit? </li>
-<li> Are they repay online?</li>
-<li> Is the amount they spend over the credit limit or spend amount per monthly?and overall?</li>
-<li> What are they spending most on?</li>
+<li> Are they repaying their credit card on time?</li>
+<li> Did they spend over the credit limit or spend amount per month?and overall?</li>
+<li> What are they spending most on? in terms of the number of transactions or the amount spent </li>
 <li> What is their risk profile? </li>
-<li> Who are will more exposed to Fraud?</li>
-<li> What can inform us if there is any suspicion of transaction?</li>
-<li> </li>
-  
+<li> Who are will more exposed to Fraud? </li>
+<li> What can inform us if there is any suspicion of transactions?</li>
+<li> What offers or services will be more appealing to our customer?</li> 
 </ol>
 
 <h2>Analysis</h2>
