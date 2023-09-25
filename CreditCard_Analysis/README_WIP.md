@@ -25,28 +25,50 @@ Based on the business statement, here is a list of questions that helped us to t
 
 <h2>Analysis</h2>
 <h3>Who are the cilents?</h3>
-<p>There is 3 tier for the Credit Card User. It is Silver, Gold, and Platinum. Among 3 the tiers, Gold spent the most and also had the highest number of users. Surprising, there are credit card user that is below 19 years old.</p>
+<p>There is 3 tier for the Credit Card User. It is Silver, Gold, and Platinum. Among 3 the tiers, Gold spent the most and also had the highest number of users. Surprising, there are 5.6% of credit card user that is below 20 years old.</p>
  
-![image](https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/7bda39db-90df-419e-91d0-1c3754cd616d)
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/bb6a0d8a-6bd3-445a-a0fb-d507bc3b8337">
+</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ad34315a-64a5-47dd-85c7-2b9bbb4cfdba">
+</p>
+
 
 <h3>Countries where our clients are from</h3>
 <p>The Top 3 Countries the client are from is Bangalore, Cochin and Calcutta.</p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/4de9e33d-04f4-4f6e-992a-337bd617c45a">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/4de9e33d-04f4-4f6e-992a-337bd617c45a">  
 </p>
 
 <h3>What is their spending habit? </h3>
 <p>Across all tiers, they spend on similar expenses such as  petrol, food, camera, air ticket, train ticket, and shopping. </p>
 
-![image](https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/41083519-6e79-4500-9852-9fd2cda6e970)
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ee319557-c8ce-48c9-8b42-e248a97b346f">
+</p>
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3db902a9-b5d7-40f5-9097-d043b91cb84e">
+</p>
+
+<!---![image](https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/41083519-6e79-4500-9852-9fd2cda6e970)--->
 
 
 <h3> Are they repaying their credit card on time?</h3>
-<p>The number of our clients' late payments is almost half of the total amount of clients. </p>
+<p>The number of our clients who late payments on credit bills is almost half of the total amount of clients. The number continues to increase through the 3 years. </p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e0ae5133-3bc1-45f7-9c89-0069eeb99629">
+</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d9e0aa10-e8d5-4150-becc-b2e1e1eacc81">
+</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e7969106-16de-4bd4-8c4a-d1f369483ca6">
 </p>
 
 <h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
@@ -65,7 +87,12 @@ Distribution of Risk Groups Across Ages, there seems to be a group of clients un
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/5770bde9-2aac-4321-adbf-9dccc2224c0b">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/6f304d79-26ba-4ca1-b451-24d69ebfce4e">
+</p>
+
+<p align="center">
+  <!---<img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/5770bde9-2aac-4321-adbf-9dccc2224c0b">--->
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/67950f43-af72-4c4c-a197-818bc38aefe0">
 </p>
 
 <h2>Conclusions</h2>
