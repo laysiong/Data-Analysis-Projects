@@ -59,17 +59,25 @@ Based on the business statement, here is a list of questions that helped us to t
 <h3> Are they repaying their credit card on time?</h3>
 <p>The number of our clients who late payments on credit bills is almost half of the total amount of clients. The number continues to increase through the 3 years. </p>
 
+<!--- Pie Chart of % of Clients repaid on time monthly--->
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e0ae5133-3bc1-45f7-9c89-0069eeb99629">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d8b12207-cd5a-44aa-970a-56a30c1b8688">
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d9e0aa10-e8d5-4150-becc-b2e1e1eacc81">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/248ae11a-c181-4fd5-8abf-45221ae1595f">
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e7969106-16de-4bd4-8c4a-d1f369483ca6">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/b02f0ab2-82c6-4039-946a-06b1491cb46f">
 </p>
+
+<p>A reason for increase number of late payment to Credit bill could be number of Customer growth over the time.</p>
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
+</p>
+
+
 
 <h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
 <p> Currently, there is 45% are in debt with their credit card.</p>
@@ -87,7 +95,7 @@ Distribution of Risk Groups Across Ages, there seems to be a group of clients un
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/6f304d79-26ba-4ca1-b451-24d69ebfce4e">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/75efc4cd-bcab-4311-a97b-65618e06d581">
 </p>
 
 <p align="center">
