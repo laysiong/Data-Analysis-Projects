@@ -61,16 +61,17 @@ Based on the business statement, here is a list of questions that helped us to t
 
 <!--- Pie Chart of % of Clients repaid on time monthly--->
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d8b12207-cd5a-44aa-970a-56a30c1b8688">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e6038b10-ee93-4375-b92d-26882b7f0792">
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/248ae11a-c181-4fd5-8abf-45221ae1595f">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/7e8d9320-5ff8-4a59-999d-774e14593f22">
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/b02f0ab2-82c6-4039-946a-06b1491cb46f">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d3dcd5fc-04e2-4503-b81e-f07edbcd79e8">
 </p>
+
 
 <p>A reason for the increased number of late payments to Credit bills could be the number of Customer growth over time.</p>
 
@@ -78,18 +79,17 @@ Based on the business statement, here is a list of questions that helped us to t
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
 </p>
 
-<p>The reason for the increase in late payments, is our longer-time client (2 years). The pattern also forms of late payment on every Jan to May Period</p>
+<p>The reason for the increase in late payments, is our longer-time client (2 years). The pattern also forms of late payment on every Jan to May Period.</p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/31aada88-9bbf-4d6e-9128-673192fd1fb99">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3619e041-fa20-4938-99b5-f7e135762b4d">
 </p>
-
 
 <h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
 <p> Currently, there is 45% are in debt with their credit card.</p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/b54a3645-d549-4909-83a7-adc6dc579bc3">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ecde6d90-a278-4959-87b5-24ebe9d83ea9">
 </p>
 
 <h3> What is their risk profile? </h3>
@@ -101,7 +101,7 @@ Distribution of Risk Groups Across Ages, there seems to be a group of clients un
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/75efc4cd-bcab-4311-a97b-65618e06d581">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/f36e1052-fa53-4d78-b898-5101f678b4ca">
 </p>
 
 <p align="center">
