@@ -72,11 +72,17 @@ Based on the business statement, here is a list of questions that helped us to t
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/b02f0ab2-82c6-4039-946a-06b1491cb46f">
 </p>
 
-<p>A reason for increase number of late payment to Credit bill could be number of Customer growth over the time.</p>
+<p>A reason for the increased number of late payments to Credit bills could be the number of Customer growth over time.</p>
+
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
 </p>
 
+<p>The reason for the increase in late payments, is our longer-time client (2 years). The pattern also forms of late payment on every Jan to May Period</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/31aada88-9bbf-4d6e-9128-673192fd1fb99">
+</p>
 
 
 <h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
