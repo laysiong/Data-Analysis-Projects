@@ -113,7 +113,17 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 </p>
 
 <h2>Conclusions</h2>
+**Bankruptcy**
+Currently, there is no client who has declared Bankruptcy. Based on the outcome of our analysis, we know that 48.4% of clients have trouble paying credit debit monthly. Most of the late payments are from our long-term clients who have been with us for 2 years or more. The percentage that our clients are in debt is 45%.
+It is largely possible that our clients might face bankruptcy if they continue their current spending habits.
 
 
+**Fraud**
+Currently, the transitions made are all within the birth country of clients. Something to think about will be the client group that is under 19 which stand 5.6%
 
 
+More information such as a large dataset of client spending habits, location(shop), and report of fraud will help for the analysis.
+
+
+**Proactive Offers and Service**
+For proactive offers and services, we are looking into analyst outcomes of their spending habit. The top 5 categories that are most spent on are Petrol, Camera, Food, Air Ticket and Train Ticket. If we group them further, we see most of them fall under group call transport. We propose a deal related to those categories to our client to maintain client retention. 
