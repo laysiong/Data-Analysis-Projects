@@ -113,17 +113,17 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 </p>
 
 <h2>Conclusions</h2>
-**Bankruptcy**
-Currently, there is no client who has declared Bankruptcy. Based on the outcome of our analysis, we know that 48.4% of clients have trouble paying credit debit monthly. Most of the late payments are from our long-term clients who have been with us for 2 years or more. The percentage that our clients are in debt is 45%.
-It is largely possible that our clients might face bankruptcy if they continue their current spending habits.
 
+**Bankruptcy**
+At present, none of our clients have declared bankruptcy. However, from our analysis, we've identified that 48.4% of them struggle with their monthly credit debt payments. A significant portion of these late payments emanates from our long-standing clients who have been associated with us for 2 years or more.
+
+Although 45% of our clientele is in debt, it's crucial to highlight the potential risks associated with their current spending patterns. If they persist in these habits, there's an elevated likelihood of them facing bankruptcy in the future.
 
 **Fraud**
-Currently, the transitions made are all within the birth country of clients. Something to think about will be the client group that is under 19 which stand 5.6%
+The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing client spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
 
-
-More information such as a large dataset of client spending habits, location(shop), and report of fraud will help for the analysis.
+From the information available, we note that all transactions have occurred within the clients' countries of birth. An area that merits closer scrutiny is the segment of our clientele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.
 
 
 **Proactive Offers and Service**
-For proactive offers and services, we are looking into analyst outcomes of their spending habit. The top 5 categories that are most spent on are Petrol, Camera, Food, Air Ticket and Train Ticket. If we group them further, we see most of them fall under group call transport. We propose a deal related to those categories to our client to maintain client retention. 
+As part of our initiative for proactive offers and services, we've delved into analyzing our clients' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance client retention.
