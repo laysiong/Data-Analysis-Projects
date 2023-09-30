@@ -25,7 +25,7 @@ Based on the business statement, here is a list of questions that helped us to t
 
 <h2>Analysis</h2>
 <h3>Who are the cilents?</h3>
-<p>There is 3 tier for the Credit Card User. It is Silver, Gold, and Platinum. Among 3 the tiers, Gold spent the most and also had the highest number of users. Surprising, there are 5.6% of credit card user that is below 20 years old.</p>
+<p>There is 3 tier for the Credit Card User. It is Silver, Gold, and Platinum. Among 3 the tiers, Gold spent the most and also had the highest number of users. Surprisingly, there are 5.6% of credit card users that is below 20 years old.</p>
  
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/bb6a0d8a-6bd3-445a-a0fb-d507bc3b8337">
@@ -35,16 +35,15 @@ Based on the business statement, here is a list of questions that helped us to t
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ad34315a-64a5-47dd-85c7-2b9bbb4cfdba">
 </p>
 
-
 <h3>Countries where our clients are from</h3>
-<p>The Top 3 Countries the client are from is Bangalore, Cochin and Calcutta.</p>
+<p>The top 3 countries that our clients are from Bangalore, Cochin, and Calcutta.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/4de9e33d-04f4-4f6e-992a-337bd617c45a">  
 </p>
 
 <h3>What is their spending habit? </h3>
-<p>Across all tiers, they spend on similar expenses such as  petrol, food, camera, air ticket, train ticket, and shopping. </p>
+<p>Across all tiers, they spend on similar expenses such as  petrol, food, camera, air ticket, train ticket, and shopping. A similar spending pattern is shown across the age group. The top 5 categories that are most spent on are Petrol, Camera, Food, Air Ticket and Train Ticket.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ee319557-c8ce-48c9-8b42-e248a97b346f">
@@ -72,32 +71,36 @@ Based on the business statement, here is a list of questions that helped us to t
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d3dcd5fc-04e2-4503-b81e-f07edbcd79e8">
 </p>
 
-
-<p>A reason for the increased number of late payments to Credit bills could be the number of Customer growth over time.</p>
+<p> The number of Customers continues to grow through the years. It was not the contributor to the increasing in late payment.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
 </p>
 
-<p>The reason for the increase in late payments, is our longer-time client (2 years). The pattern also forms of late payment on every Jan to May Period.</p>
+
+<p>The number of late payments has increased among our long-term clients who have been with us for 2 years. There's also a pattern of increasing late payments observed every year during the January to May period.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3619e041-fa20-4938-99b5-f7e135762b4d">
 </p>
 
 <h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
-<p> Currently, there is 45% are in debt with their credit card.</p>
+<p> Currently, 45% of customers are in debt with their credit cards. However, this doesn't necessarily indicate an inability to pay; it might suggest that some customers simply require more time. </p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ecde6d90-a278-4959-87b5-24ebe9d83ea9">
 </p>
 
 <h3> What is their risk profile? </h3>
-<p> I created a risk profile based on 2 factors, first are the payments on time, and did the spent pass their credit limit monthly? Based on that, we will assign a score to each client to determine its risk profile. 
+<p> We've developed a risk profile for each client based on two critical factors: the timeliness of their payments and whether they exceed their monthly credit limit. Using the information at our disposal, we assign a score to each client, helping us determine their individual risk profile.
 
-Distribution of Repay to Spend Amount Raito across Ages, there is a number of people that are in debt but they are quite close to paying up debt. There are few clients that pay amounts that exit further from what they spend on. It could be a repayment of their previous debt that is not recorded in the data. 
+In observing the distribution of the 'Repay to Spend Amount Ratio' across different age groups, we notice that many individuals are in debt. However, they're nearing the completion of their debt repayment. A smaller subset of clients appears to be paying amounts significantly higher than their recent spending. This discrepancy might be due to them settling previously unrecorded debts.
 
-Distribution of Risk Groups Across Ages, there seems to be a group of clients under 60 who fall into the high-risk profile. 
+When examining the distribution of risk groups by age, a concerning trend emerges. A considerable number of clients below the age of 60 fall into the high-risk category.
+
+Regarding geographic patterns, cities like Bangalore, Calcutta, Cochin, Patna, and Chennai have a notably higher number of individuals with lower credit scores.
+
+Lastly, when segmented by tier, both the silver and platinum categories show a tendency towards lower credit scores.
 </p>
 
 <p align="center">
