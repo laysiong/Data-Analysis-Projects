@@ -114,16 +114,15 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 
 <h2>Conclusions</h2>
 
-**Bankruptcy**
-At present, none of our clients have declared bankruptcy. However, from our analysis, we've identified that 48.4% of them struggle with their monthly credit debt payments. A significant portion of these late payments emanates from our long-standing clients who have been associated with us for 2 years or more.
+<h3>Bankruptcy</h3>
+<p>At present, none of our clients have declared bankruptcy. However, from our analysis, we've identified that 48.4% of them struggle with their monthly credit debt payments. A significant portion of these late payments emanates from our long-standing clients who have been associated with us for 2 years or more.
+<br></br>
+Although 45% of our clientele is in debt, it's crucial to highlight the potential risks associated with their current spending patterns. If they persist in these habits, there's an elevated likelihood of them facing bankruptcy in the future.</p>
 
-Although 45% of our clientele is in debt, it's crucial to highlight the potential risks associated with their current spending patterns. If they persist in these habits, there's an elevated likelihood of them facing bankruptcy in the future.
+<h3>Fraud</h3>
+<p>The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing client spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
+<br></br>
+From the information available, we note that all transactions have occurred within the clients' countries of birth. An area that merits closer scrutiny is the segment of our clientele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.</p>
 
-**Fraud**
-The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing client spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
-
-From the information available, we note that all transactions have occurred within the clients' countries of birth. An area that merits closer scrutiny is the segment of our clientele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.
-
-
-**Proactive Offers and Service**
-As part of our initiative for proactive offers and services, we've delved into analyzing our clients' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance client retention.
+<h3>Proactive Offers and Service</h3>
+<p>As part of our initiative for proactive offers and services, we've delved into analyzing our clients' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance client retention.</p>
