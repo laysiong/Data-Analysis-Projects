@@ -117,12 +117,12 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/da2834ad-77a2-463d-9116-d79e81283550">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/8c6e2e56-5566-4d0a-841b-c64180b29570">
 </p>
 17% of our 100 cilents are in the high-risk and likely to bankrupt based on our 3 consider factors. If we will to filter out some of only use for 1 transaction and stop.
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/96407306-5600-48d5-82fd-c070abb32e4f">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/5dc7e751-7abc-4202-84ef-f972da0df7fe">
 </p>
 3.2% of 63 cilents are likely to brankrupt. This are cilents who use the card often.
 
@@ -138,7 +138,7 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 If we look amount spend amounting on 36% compare all transaction, it is 46.5% of spent amount in transaction. The top 3 transaction area that is being spent are Train Ticket, Shopping and Sandals.
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/8176c098-a130-45d6-9a2e-fd1e5ba15616">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e9536e5b-0b70-4533-bf41-566378194c5a">
 </p>
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/2f630f9f-5f34-4720-84e4-5eed765a1b89">
