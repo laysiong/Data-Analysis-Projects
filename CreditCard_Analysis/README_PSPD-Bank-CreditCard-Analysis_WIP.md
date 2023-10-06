@@ -113,7 +113,7 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 </p>
 
 <h3> Who might get Bankrupt? </h3>
-<p> Currently, there is no cilent who had declared Bankrupt in the data. So for us to find out who could potentially bankrupt, we will first define what is consider as Bankrupt. The <b>definition of Bankrupt</b> for this case, is when cilents is unable to repay outstanding debts, decrease in repay to spending amount monthly and bad credit score. Those will be 3 factor we will acesss merit or dermit point to the cilent to gauge if they will likely to declared bankrupt.
+<p> Currently, there is no cilent who had declared Bankrupt in the data. So for us to find out who could potentially bankrupt, we will first define what is consider as Bankrupt. The <b>definition of Bankrupt</b> for this case, is when cilents is unable to repay outstanding debts or outstanind debts is twice on what cilents had repay, decrease in repay to spending amount monthly and bad credit score. Those will be 3 factor we will acesss merit or dermit point to the cilent to gauge if they will likely to declared bankrupt.
 </p>
 
 <p align="center">
