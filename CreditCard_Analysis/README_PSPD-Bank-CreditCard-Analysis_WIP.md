@@ -20,7 +20,7 @@ Based on the business problem, here is a list of questions that helped us to eva
 <li> How often do they spend over the credit card limit? </li>
 <li> How many have the ability to repay? How many have large outstanding debts? </li>
 <li> What is their Credit Score? </li>
-<li> Who is more likely to go bankrupt? <li>
+<li> Who is more likely to go bankrupt? </li>
 <li> Who and what transactions are will more exposed to Fraud? </li>
 <li> What can inform us if there is any suspicion of transactions?</li>
 </ol>
