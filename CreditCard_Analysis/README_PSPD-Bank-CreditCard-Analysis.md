@@ -25,7 +25,7 @@ Based on the business problem, here is a list of questions that helped us to eva
 
 <h2>Analysis</h2>
 <h3>1. Who are the cilents?</h3>
-<p>In a pool of 100 clients, the credit card users are divided into three tiers: Silver, Gold, and Platinum. The Gold tier not only reports the highest spending but also comprises the most substantial segment of users. Notably, 0.3%, which may equate to just one user, could have a significant influence on the results given our small sample size.</p>
+<p>In a pool of 100 clients, the credit card users are divided into three tiers: Silver, Gold, and Platinum. The Gold tier not only reports the highest spending but also comprises the most substantial segment of users. Notably, 0.3%, which may equate to just one to two users in that tier, could have a significant influence on the results given our small sample size.</p>
  
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/bb6a0d8a-6bd3-445a-a0fb-d507bc3b8337">
