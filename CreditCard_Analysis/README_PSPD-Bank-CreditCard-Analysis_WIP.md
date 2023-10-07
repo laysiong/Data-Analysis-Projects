@@ -14,19 +14,18 @@ must be gained through effective data analysis and modeling. Through the use of 
 Based on the business problem, here is a list of questions that helped us to evaluate all aspects of credit card operation. 
 
 <ol>
-<li> Who are our clients? </li>
-<li> What is their spending habit? monthly? overall? </li>
+<li> Who are our customers? </li>
+<li> What is their spending habit?</li>
 <li> Are they repaying their credit card on time?</li>
 <li> How often do they spend over the credit card limit? </li>
-<li> How many have the ability to repay? How many have large outstanding debts? </li>
+<li> How many customers are in debt? </li>
 <li> What is their Credit Score? </li>
 <li> Who is more likely to go bankrupt? </li>
-<li> Who and what transactions are will more exposed to Fraud? </li>
-<li> What can inform us if there is any suspicion of transactions?</li>
+<li> Which transaction could potentially be a fraud?</li>
 </ol>
 
 <h2>Analysis</h2>
-<h3>Who are the cilents?</h3>
+<h3>1. Who are the cilents?</h3>
 <p>There is 3 tier for the Credit Card User. It is Silver, Gold, and Platinum. Among 3 the tiers, Gold spent the most and also had the highest number of users. Surprisingly, there are 5.6% of credit card users that is below 20 years old.</p>
  
 <p align="center">
@@ -37,14 +36,14 @@ Based on the business problem, here is a list of questions that helped us to eva
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ad34315a-64a5-47dd-85c7-2b9bbb4cfdba">
 </p>
 
-<h3>Countries where our clients are from</h3>
-<p>The top 3 countries that our clients are from Bangalore, Cochin, and Calcutta.</p>
+<h3>Countries where our customers are from</h3>
+<p>The top 3 countries that our customers are from Bangalore, Cochin, and Calcutta.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/4de9e33d-04f4-4f6e-992a-337bd617c45a">  
 </p>
 
-<h3>What is their spending habit? </h3>
+<h3>2. What is their spending habit? </h3>
 <p>Across all tiers, they spend on similar expenses such as  petrol, food, camera, air ticket, train ticket, and shopping. A similar spending pattern is shown across the age group. The top 5 categories that are most spent on are Petrol, Camera, Food, Air Ticket and Train Ticket.</p>
 
 <p align="center">
@@ -57,48 +56,48 @@ Based on the business problem, here is a list of questions that helped us to eva
 <!---![image](https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/41083519-6e79-4500-9852-9fd2cda6e970)--->
 
 
-<h3> Are they repaying their credit card on time?</h3>
-<p>The number of our clients who late payments on credit bills is almost half of the total amount of clients. The number continues to increase through the 3 years. </p>
+<h3>3. Are they repaying their credit card on time?</h3>
+<p>The number of our customers who are late on credit bill payments is 48.4% of the total amount of customers. </p>
 
-<!--- Pie Chart of % of Clients repaid on time monthly--->
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e6038b10-ee93-4375-b92d-26882b7f0792">
 </p>
+
+The number of customers who are late on credit bill payments continues to increase through the 3 years. From Feb to July of 2005 and 2006, we observed is sharp increase in the number of late payments to credit bills. Could this be caused by the newer customer? 
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/7e8d9320-5ff8-4a59-999d-774e14593f22">
 </p>
 
-<p align="center">
+<!---!<p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/d3dcd5fc-04e2-4503-b81e-f07edbcd79e8">
-</p>
+</p> --->
 
-<p> The number of Customers continues to grow through the years. It was not the contributor to the increasing in late payment.</p>
+<p> Indeed, the number of our customers continues to grow through the years. But it was not the contributor to the increase in late payment.</p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
 </p>
 
-
-<p>The number of late payments has increased among our long-term clients who have been with us for 2 years. There's also a pattern of increasing late payments observed every year during the January to May period.</p>
+<p> Let's split customers based on the number of years they have been with us. The number of late payments has increased among our long-term customers who have been with us for 2 years. There's also a pattern of increasing late payments observed every year during the January to May period. </p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3619e041-fa20-4938-99b5-f7e135762b4d">
 </p>
 
-<h3>Did they spend over the credit limit or spend amount per month?and overall?</h3>
+<h3>4.How many customers are in debt?</h3>
 <p> Currently, 45% of customers are in debt with their credit cards. However, this doesn't necessarily indicate an inability to pay; it might suggest that some customers simply require more time. </p>
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ecde6d90-a278-4959-87b5-24ebe9d83ea9">
 </p>
 
-<h3> What is their risk profile? </h3>
-<p> We've developed a risk profile for each client based on two critical factors: the timeliness of their payments and whether they exceed their monthly credit limit. Using the information at our disposal, we assign a score to each client, helping us determine their individual risk profile.
+<h3>5.What is their Credit Score?</h3>
+<p> We've developed a risk profile for each customers based on two critical factors: the timeliness of their payments and whether they exceed their monthly credit limit. Using the information at our disposal, we assign a score to each customers, helping us determine their risk profile.
 
-In observing the distribution of the 'Repay to Spend Amount Ratio' across different age groups, we notice that many individuals are in debt. However, they're nearing the completion of their debt repayment. A smaller subset of clients appears to be paying amounts significantly higher than their recent spending. This discrepancy might be due to them settling previously unrecorded debts.
+In observing the distribution of the 'Repay to Spend Amount Ratio' across different age groups, we notice that many individuals are in debt. However, they're nearing the completion of their debt repayment. A smaller subset of customers appears to be paying amounts significantly higher than their recent spending. This discrepancy might be due to them settling previously unrecorded debts.
 
-When examining the distribution of risk groups by age, a concerning trend emerges. A considerable number of clients below the age of 60 fall into the high-risk category.
+When examining the distribution of risk groups by age, a concerning trend emerges. A considerable number of customers below the age of 60 fall into the high-risk category.
 
 Regarding geographic patterns, cities like Bangalore, Calcutta, Cochin, Patna, and Chennai have a notably higher number of individuals with lower credit scores.
 
@@ -114,8 +113,8 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/eb36ac16-9c0a-4560-aeea-92fd2e53600f">
 </p>
 
-<h3> Who might get Bankrupt? </h3>
-<p> Currently, there is no cilent who had declared Bankrupt in the data. So for us to find out who could potentially bankrupt, we will first define what is consider as Bankrupt. The <b>definition of Bankrupt</b> for this case, is when cilents is unable to repay outstanding debts or outstanind debts is twice on what cilents had repay, decrease in repay to spending amount monthly and bad credit score. Those will be 3 factor we will acesss merit or dermit point to the cilent to gauge if they will likely to declared bankrupt.
+<h3>6.Who is more likely to go bankrupt?</h3>
+<p> Currently, no customers has declared bankruptcy in the data. So for us to find out who could potentially bankrupt, we will first define what is considered Bankrupt. The <b>definition of Bankrupt</b> for this case, is when customers are unable to repay outstanding debts or outstanding debts are twice what customers had repaid, decrease in repayment to spending amount monthly, and a bad credit score. Those will be 3 factors we will access merit or demerit points to the customers to gauge if they will likely to declared bankrupt.
 </p>
 
 <p align="center">
@@ -129,8 +128,8 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 3.2% of 63 cilents are likely to brankrupt. This are cilents who use the card often.
 
 
-<h3> Which transaction could potentially be fraud? </h3>
-<p> The factor we wil consider to check if transaction fraud will be location on card use, user origin location, have the transaction be repay full and is there usual spending amount through out the month from same cilents. Based on those mertrix, we can see their 36% of transaction are High Risk to fraud.
+<h3>7.Which transaction could potentially be a fraud?</h3>
+<p> The factors we wil consider to check if transaction fraud will be the location on card use, user origin location, have the transaction be repay full and is there usual spending amount through out the month from same cilents. Based on those mertrix, we can see their 36% of transaction are High Risk to fraud.
 </p>
 
 <p align="center">
@@ -150,14 +149,14 @@ If we look amount spend amounting on 36% compare all transaction, it is 46.5% of
 <h2>Conclusions</h2>
 
 <h3>Bankruptcy</h3>
-<p>At present, none of our clients have declared bankruptcy. However, from our analysis, we've identified that 48.4% of them struggle with their monthly credit debt payments. A significant portion of these late payments emanates from our long-standing clients who have been associated with us for 2 years or more.
+<p>At present, none of our customers have declared bankruptcy. However, from our analysis, we've identified that 48.4% of them struggle with their monthly credit debt payments. A significant portion of these late payments emanates from our long-standing customers who have been associated with us for 2 years or more.
 <br></br>
-Although 45% of our clientele is in debt, it's crucial to highlight the potential risks associated with their current spending patterns. If they persist in these habits, there's an elevated likelihood of them facing bankruptcy in the future.</p>
+Although 45% of our customersele is in debt, it's crucial to highlight the potential risks associated with their current spending patterns. If they persist in these habits, there's an elevated likelihood of them facing bankruptcy in the future.</p>
 
 <h3>Fraud</h3>
-<p>The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing client spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
+<p>The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing customers spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
 <br></br>
-From the information available, we note that all transactions have occurred within the clients' countries of birth. An area that merits closer scrutiny is the segment of our clientele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.</p>
+From the information available, we note that all transactions have occurred within the customers' countries of birth. An area that merits closer scrutiny is the segment of our customersele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.</p>
 
 <h3>Proactive Offers and Service</h3>
-<p>As part of our initiative for proactive offers and services, we've delved into analyzing our clients' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance client retention.</p>
+<p>As part of our initiative for proactive offers and services, we've delved into analyzing our customers' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance customers retention.</p>
