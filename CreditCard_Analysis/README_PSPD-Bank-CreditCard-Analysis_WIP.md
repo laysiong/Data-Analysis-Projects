@@ -17,7 +17,6 @@ Based on the business problem, here is a list of questions that helped us to eva
 <li> Who are our customers? </li>
 <li> What is their spending habit?</li>
 <li> Are they repaying their credit card on time?</li>
-<li> How often do they spend over the credit card limit? </li>
 <li> How many customers are in debt? </li>
 <li> What is their Credit Score? </li>
 <li> Who is more likely to go bankrupt? </li>
@@ -76,13 +75,13 @@ The number of customers who are late on credit bill payments continues to increa
 <p> Indeed, the number of our customers continues to grow through the years. But it was not the contributor to the increase in late payment.</p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c315361b-3d62-4159-bc5e-6b72a0885ed9">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ada5fa2a-b876-4218-94d2-cf210a0df87b"> 
 </p>
 
 <p> Let's split customers based on the number of years they have been with us. The number of late payments has increased among our long-term customers who have been with us for 2 years. There's also a pattern of increasing late payments observed every year during the January to May period. </p>
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3619e041-fa20-4938-99b5-f7e135762b4d">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/366f72e3-0cc5-4fa3-b44d-12dcef5b8327">
 </p>
 
 <h3>4.How many customers are in debt?</h3>
@@ -139,11 +138,16 @@ Lastly, when segmented by tier, both the silver and platinum categories show a t
 If we look amount spend amounting on 36% compare all transaction, it is 46.5% of spent amount in transaction. The top 3 transaction area that is being spent are Train Ticket, Shopping and Sandals.
 
 <p align="center">
-  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/e9536e5b-0b70-4533-bf41-566378194c5a">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/ff86470c-c9f5-47cd-b161-bd5d76f73ebd">
 </p>
+
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/2f630f9f-5f34-4720-84e4-5eed765a1b89">
   <!---<img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/037cfb79-7d24-4dfa-aa30-f37b0fa0b476">--->
+</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/4a2c7a92-d424-4b1d-8cd0-246c27a01e86">
 </p>
 
 <h2>Conclusions</h2>
