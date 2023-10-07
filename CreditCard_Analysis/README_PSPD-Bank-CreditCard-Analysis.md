@@ -1,5 +1,5 @@
 <h1>PSPD Bank Credit Card Exploratory Data Analysis </h1> 
-
+last updated on 7/10/2023
 <h2>Business Problem</h2>
 In order to effectively produce quality decisions in the modern credit card industry, knowledge
 must be gained through effective data analysis and modeling. Through the use of dynamic data-driven decision-making tools and procedures, information can be gathered to successfully evaluate all aspects of credit card operations. PSPD Bank has banking operations in more than 50 countries across the globe. Mr. Jim Watson, CEO, wants to <b>evaluate areas of bankruptcy, fraud, and collections, and respond to customer requests for help with proactive offers and service.</b>
@@ -184,9 +184,25 @@ While 45% of our client base is in debt, it's essential to shed light on the pot
 </p>
 
 <h3>Fraud</h3>
-<p>The current data set is not comprehensive enough to detect fraudulent transactions effectively. A more detailed dataset encompassing customers spending habits, transaction locations (such as shops), and previously reported fraud incidents would significantly enhance our analysis.
+<p>The data currently available to us is somewhat limited, hindering our ability to effectively identify fraudulent transactions. For a more holistic analysis, we'd benefit from a dataset that encompasses specifics like customers' spending behaviors, transaction locations (especially specific shops), and history of reported fraudulent activities.
+
+Applying our existing fraud metric system to this data, we consider factors such as transaction and origin locations, repayment status, and the client's monthly spending consistency. Based on these criteria, 36% of the transactions are flagged as high risk, accounting for 46.5% of the total transactional value. Notably, the primary sectors these transactions fall into are Train Tickets, Shopping, and Sandals. These sectors might warrant extra vigilance on our part.
+
+Interestingly, 78.3% of clients who fall into the adult age group are tagged as high-risk. Given that this demographic represents the majority of our client base, it's somewhat reassuring, suggesting there's a minimal likelihood of targeted scams.
+
+For a more granular understanding, we need specifics such as the nature of the transaction (online or in-store), the exact order location, and, crucially, for our younger customers, details about the authorization of their card usage. Given that they are minors, discerning who granted them credit card access is vital. Their legal accountability being potentially limited raises concerns, as they might inadvertently become conduits for malicious activities, including fraud.
 <br></br>
-From the information available, we note that all transactions have occurred within the customers' countries of birth. An area that merits closer scrutiny is the segment of our customersele under the age of 19, representing 5.6% of the total. For a more in-depth analysis, we would need additional details, like who authorized their credit card usage and which guardian or parent consented to these teenagers having a credit card. There's a potential risk here; since these individuals are underage, they might be less accountable legally, making them potential targets for illicit activities, including fraud.</p>
+<b>Recommendations:</b>
+<ol>
+<li><b>Educate Clients</b>: Share information about common types of fraud, both online and offline, to heighten awareness. Offering guidelines on how to prevent such incidents can empower them to make safer transaction choices.</li>
+<li><b>Enhanced Verification</b>: For accounts that display unusual spending patterns, implement a two-step verification process for purchases to add an extra layer of security.</li>
+<li><b>Parental Control</b>: For accounts belonging to underage clients, consider introducing parental controls or guardian-approved transaction limits to prevent misuse. </li>
+</ol>
+</p>
+
 
 <h3>Proactive Offers and Service</h3>
-<p>As part of our initiative for proactive offers and services, we've delved into analyzing our customers' spending patterns. The top five categories where expenditure is highest are: Petrol, Camera, Food, Air Tickets, and Train Tickets. On closer inspection, a predominant theme emerges—most of these expenses can be categorized under 'Transport'. In light of these findings, we suggest introducing offers related to these categories, as it would be a strategic move to enhance customers retention.</p>
+<p>In our continuous endeavor to better serve our customers, we've analyzed their spending habits. The most popular spending categories include Petrol, Camera, Food, Air Tickets, and Train Tickets. Digging deeper, we see a clear trend: a majority of these expenses are related to 'Transport'. Given this insight, introducing offers in these categories stands out as a smart strategy to boost customer loyalty.
+<br></br>
+<b>Solution:</b>
+To capitalize on these spending patterns, we propose expanding our rewards program to give special emphasis on these categories. Additionally, partnering with businesses in these sectors could offer our customers exclusive deals, further promoting the use of our bank's credit card and enhancing customer retention.</p>
