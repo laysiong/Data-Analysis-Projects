@@ -1,6 +1,6 @@
 <h1>Title</h1> 
-Data Source: [Source]
-<br>last updated on [Data]
+Data Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+<br>last updated on 23/10/2023
 <h2>Business Problem</h2>
 <h2>About the Data</h2>
 <h2>Question to be answer</h2>
