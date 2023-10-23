@@ -1,6 +1,6 @@
 <h1>PSPD Bank Credit Card Exploratory Data Analysis </h1>
-Data_Soruce:https://www.kaggle.com/datasets/darpan25bajaj/credit-card-exploratory-data-analysis
-last updated on 23/10/2023
+Data Source: https://www.kaggle.com/datasets/darpan25bajaj/credit-card-exploratory-data-analysis
+<br>last updated on 23/10/2023
 <h2>Business Problem</h2>
 In order to effectively produce quality decisions in the modern credit card industry, knowledge
 must be gained through effective data analysis and modeling. Through the use of dynamic data-driven decision-making tools and procedures, information can be gathered to successfully evaluate all aspects of credit card operations. PSPD Bank has banking operations in more than 50 countries across the globe. Mr. Jim Watson, CEO, wants to <b>evaluate areas of bankruptcy, fraud, and collections, and respond to customer requests for help with proactive offers and service.</b>
