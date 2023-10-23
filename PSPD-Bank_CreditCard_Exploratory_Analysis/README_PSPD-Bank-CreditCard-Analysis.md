@@ -7,9 +7,11 @@ must be gained through effective data analysis and modeling. Through the use of 
 
 <h2>About the Data</h2>
 <b>This book has the following sheets:</b>
+<ul>
   <li>Customer Acquisition: At the time of card issuing, the company maintains the details of customers.</li>
   <li>Spend (Transaction data): Credit card spend for each customer</li>
   <li>Repayment: Credit card Payment done by customer</li>
+</ul>
 
 <h2>Question to be answer</h2>
 Based on the business problem, here is a list of questions that helped us to evaluate all aspects of credit card operation. 
