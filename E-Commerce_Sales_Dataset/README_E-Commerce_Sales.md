@@ -1,6 +1,6 @@
 <h1>E-Commerce Sales Dataset Exploratory Data Analysis</h1> 
 Data Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
-<br>last updated on 02/11/2023
+<br>last updated on 03/11/2023
 <h2>Business Problem</h2>
 <b>Objective:</b> To optimize the profitability of e-commerce sales across diverse channels and align inventory management with demand patterns.
 
@@ -27,7 +27,7 @@ Data Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e
 </ol>
 
 <h2>Analysis</h2>
-<h3>Information on general trend market on Amazon</h3>
+<h3>Information on general trend market on Amazon in India</h3>
 About <b>27.8%</b> of shipped transactions on Amazon are fulfilled by merchants, contributing to <b>27.9%</b> of the platform’s shipped sales revenue. This indicates a relatively balanced distribution of product value between Amazon’s and merchants' sales, highlighting the substantial role of merchants in the Amazon ecosystem right from the start.
 <br></br>
 <p align="center">
@@ -79,6 +79,28 @@ Examining the proportion of transactions that utilized discounts reveals that ne
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/40d47b72-340a-4e04-9027-4113afe6a81f">
 </p>
 
+<h3>Information on general trend market on International Sale</h3>
+Kurta Set, Kurta, and Dress are the top revenue contributors in international sales, making up 85.148% of the overall revenue. This pattern is consistent with Amazon's sales trends, which also show these items as top sellers. To fully understand the comparison, we need to investigate whether the categories align exactly—for instance, whether 'Set' is synonymous with 'Kurta Set,' and if 'Dress' refers specifically to Western-style dresses.
+<br></br>
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/03e9151b-a342-4457-be16-ec5b4a9ce3b4">
+</p>
+
+Most of their clientele are within the XS to XXL size bracket, with a reduced demand for sizes 4XL to 6XL. Notably, there are no orders for Free Size or 3XL, a trend that somewhat resembles Amazon's sales pattern.
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/f369a2c7-451c-404b-b7b5-5e8c6cbe4b4b">
+</p>
+
+<h4>Summary of Sales Trends in Amazon India and Global Markets</h4>
+<p>Analyzing both Amazon and international data, it's evident that focusing on <b>Kurta sets, sets, Kurtas, and Western Dresses/Dresses</b> could satisfy <b>80% to 90% of customer demand</b>. When considering stock sizes, maintaining an inventory ranging from <b>XS to 3XL</b> is advisable. Additionally, exploring the niche market of sizes 4XL to 6XL could attract a distinct customer base.</p>
+
+<h3>Comparative Analysis of Pricing Across E-commerce Platforms</h3>
+
+
+
+
+
 
 <!---!
 <table cellspacing="0" cellpadding="0" border:none>
@@ -93,11 +115,6 @@ Examining the proportion of transactions that utilized discounts reveals that ne
 </tr>
   
 </table> --->
-
-
-
-<h3>Sub-title</h3>
-
 
 <h2>Conclusions</h2>
 
