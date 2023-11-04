@@ -96,10 +96,20 @@ Most of their clientele are within the XS to XXL size bracket, with a reduced de
 <p>Analyzing both Amazon and international data, it's evident that focusing on <b>Kurta sets, sets, Kurtas, and Western Dresses/Dresses</b> could satisfy <b>80% to 90% of customer demand</b>. When considering stock sizes, maintaining an inventory ranging from <b>XS to 3XL</b> is advisable. Additionally, exploring the niche market of sizes 4XL to 6XL could attract a distinct customer base.</p>
 
 <h3>Comparative Analysis of Pricing Across E-commerce Platforms</h3>
+In the 2022 data, one third-party platform previously listed is notably absent, suggesting potential market shifts, alterations in strategic partnerships, or the platform's withdrawal from the competitive landscape.
+<br></br>
+We will examine the variations in pricing distribution across E-commerce platforms. Within categories like Kurta, Kurta Sets, and Tops that appear in both datasets, we've noted that Ajio, Amazon, Amazon FBA, and Flipkart exhibit a higher standard deviation than the average. This suggests that, during that particular month, these platforms may have engaged in strategic pricing, and promotions, or offered exclusive designs for these three categories. 
+<br></br>
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/535d3b02-d9b7-4e59-995d-9f565d1a7782">
+</p>
 
 
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3a8561ff-fa43-419d-afe9-f8c39133146c">
+</p>
 
-
+Additional data is required to thoroughly analyze the pricing distribution among e-commerce platforms.
 
 
 <!---!
