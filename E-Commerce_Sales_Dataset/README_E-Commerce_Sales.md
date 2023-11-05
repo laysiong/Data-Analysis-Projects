@@ -100,16 +100,28 @@ In the 2022 data, one third-party platform previously listed is notably absent, 
 <br></br>
 We will examine the variations in pricing distribution across E-commerce platforms. Within categories like Kurta, Kurta Sets, and Tops that appear in both datasets, we've noted that Ajio, Amazon, Amazon FBA, and Flipkart exhibit a higher standard deviation than the average. This suggests that, during that particular month, these platforms may have engaged in strategic pricing, and promotions, or offered exclusive designs for these three categories. 
 <br></br>
+Additional data is required to thoroughly analyze the pricing distribution among e-commerce platforms.
+<br></br>
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/535d3b02-d9b7-4e59-995d-9f565d1a7782">
 </p>
-
 
 <p align="center">
   <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/3a8561ff-fa43-419d-afe9-f8c39133146c">
 </p>
 
-Additional data is required to thoroughly analyze the pricing distribution among e-commerce platforms.
+During the review of Maximum Retail Prices (MRP) by category between March 2021 and May 2022, it was found that MRPs remain constant. The only notable variation detected was the disappearance of a third-party platform in the more recent data. Additionally, a significant price variation was identified on this third-party platform, where items were priced much lower, at times 4 to 5 times less, compared to other e-commerce platforms.
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/cadec952-254c-444b-9b0f-cb3bf66cef2b">
+</p>
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/c3dacdac-2eab-4f6c-8574-4c0460672491">
+</p>
+
+<h3>Inventory for E-commerce Sales</h3>
+
 
 
 <!---!
