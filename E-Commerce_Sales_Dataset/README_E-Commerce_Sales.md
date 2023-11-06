@@ -1,6 +1,6 @@
 <h1>E-Commerce Sales Dataset Exploratory Data Analysis</h1> 
 Data Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
-<br>last updated on 03/11/2023
+<br>last updated on 06/11/2023
 <h2>Business Problem</h2>
 <b>Objective:</b> To optimize the profitability of e-commerce sales across diverse channels and align inventory management with demand patterns.
 
@@ -20,10 +20,10 @@ Data Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e
 
 <h2>Question to be answer</h2>
 <ol>
+<li>How do SKU codes, design choices, and product categories influence sales performance across different channels?</li>
 <li>How can we refine our pricing strategies across various e-commerce platforms to maximize profitability?</li>
 <li>How can we better align our inventory with demand patterns to prevent stockouts and overstock situations?</li>
 <li>Which sales channels (e.g., Shiprocket, INCREFF) are performing the best, and where should we reallocate resources for maximum efficiency?</li>
-<li>How do SKU codes, design choices, and product categories influence sales performance across different channels?</li>
 </ol>
 
 <h2>Analysis</h2>
@@ -121,6 +121,24 @@ During the review of Maximum Retail Prices (MRP) by category between March 2021 
 </p>
 
 <h3>Inventory for E-commerce Sales</h3>
+We need to assess our inventory to determine which items are selling out and which are not. By merging Amazon and International sales data with our inventory reports, we've categorized products based on their sales performance and stock levels. Products with sales exceeding our stock are categorized as understocked, and those with significantly more inventory left than sold are overstocked. Additionally, we've identified products that are sold out, have no sales, or have balanced sales.
+
+Our inventory composition reveals that 44.9% is tied up in overstocked items or products that have not achieved any sales. Moreover, 55% of our inventory suffers from a low turnover rate. Within this segment, approximately 10.1% of our products that are either balanced in stock or sold out may also be experiencing low turnover.
+
+Ideally, we would aim for a turnover rate where at least 70% of our inventory is high-turning and no more than 30% is low-turning. Addressing the 10.1% segment with potential pricing strategy adjustments could enhance turnover rates. Concurrently, we need to focus on the remaining 20% to mitigate overstocking and zero sales situations.
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/6a0cd9e2-26ff-4a8c-8486-2a799e3c2c62">
+</p>
+
+We should prioritize managing our inventory for categories such as SAREE, SHARARA, KURTI, SKIRT, and BOTTOM, where the low turnover rates are most pronounced. Conversely, there is an opportunity for enhancement in categories like BLOUSE, LEGGINGS, and CARDIGAN, which currently exhibit a lower incidence of high turnover rates. 
+
+<p align="center">
+  <img src="https://github.com/laysiong/Data-Analysis-Projects/assets/65546211/634f8921-577d-43cc-be91-e14051ff9041">
+</p>
+
+
+<h3> Cloud Wharehouse - Shiprocket or  INCREFF </h3>
 
 
 
