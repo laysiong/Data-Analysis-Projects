@@ -98,7 +98,7 @@ Over the past three years, we've seen a rising trend in customers who are late o
 </p>
 
 <h3>5.What is their Credit Score?</h3>
-<p> We've developed a risk profile for each customer based on two critical factors: the timeliness of their payments and whether they exceed their monthly credit limit. Using the information at our disposal, we assign a score to each customer, helping us determine their risk profile. Based on this metric system, 45% of clients fall into negative credit scores.
+<p> We've developed a risk profile for each customer based on two critical factors: the timeliness of their payments and whether they exceed their monthly credit limit. Using the information at our disposal, we assign a score to each customer, helping us determine their risk profile. Based on this metric system, 41% of clients fall into negative credit scores.
 </p>
 
 <p align="center">
